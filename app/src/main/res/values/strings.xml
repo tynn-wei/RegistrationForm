@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demo My Log In App</string>
+    <string name="TVname">Name:</string>
+    <string name="TVpass">Password:</string>
+    <string name="BTNlogin">Login</string>
+    <string name="BTNcncl">Cancel</string>
+
+    <string name="TVrf">Registration Form</string>
+    <string name="TVwelcome">Welcome to Registration Club!</string>
+    <string name="TVfullname">Full Name:</string>
+    <string name="TVgender">Gender:</string>
+    <string name="BTNfemale">Female</string>
+    <string name="BTNmale">Male</string>
+    <string name="TVsi">Student ID:</string>
+    <string name="TVschool">School:</string>
+    <string name="TVemail">E-mail:</string>
+    <string name="TVphone">Phone:</string>
+    <string name="BTNregister">Register</string>
+
+</resources>
